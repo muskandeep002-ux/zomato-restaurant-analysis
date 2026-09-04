@@ -27,26 +27,27 @@ Kaggle - Zomato Delhi NCR Restaurants Dataset
 - Connaught Place has the highest restaurant density in Delhi NCR
 - Average dining rating is 4.14 across all localities
 - Dining experience significantly outperforms delivery ratings
+- No strong correlation between price and rating
+- Hidden gems exist in residential areas with high ratings but low reviews
 
 ## Power BI Dashboard
 
-### Page 1 - City Overview
-![City Overview] <img width="1310" height="725" alt="Screenshot 2026-09-04 105808 - Copy - Copy" src="https://github.com/user-attachments/assets/c5ce1c8c-0aa8-4f1a-8570-bc747dfeb0e8" />
+### Page 1 
+<img width="1310" height="725" alt="Screenshot 2026-09-04 105808 - Copy - Copy" src="https://github.com/user-attachments/assets/c5ce1c8c-0aa8-4f1a-8570-bc747dfeb0e8" />
 
 
-### Page 2 - Cuisine Analysis
-![Cuisine Analysis] <img width="1317" height="734" alt="Screenshot 2026-09-04 105825" src="https://github.com/user-attachments/assets/179cfe7e-d6a0-4c8b-ae43-2adc0e5babcd" />
+### Page 2
+<img width="1317" height="734" alt="Screenshot 2026-09-04 105825" src="https://github.com/user-attachments/assets/179cfe7e-d6a0-4c8b-ae43-2adc0e5babcd" />
 
 
-### Page 3 - Dining vs Delivery
-![Dining vs Delivery] <img width="1307" height="726" alt="Screenshot 2026-09-04 105838" src="https://github.com/user-attachments/assets/e5c979e8-b9c1-4ea0-be12-0ba042a0c1c1" />
+### Page 3 
+<img width="1307" height="726" alt="Screenshot 2026-09-04 105838" src="https://github.com/user-attachments/assets/e5c979e8-b9c1-4ea0-be12-0ba042a0c1c1" />
 
 
-### Page 4 - Hidden Gems
-![Hidden Gems] <img width="1313" height="737" alt="Screenshot 2026-09-04 105853 - Copy" src="https://github.com/user-attachments/assets/33c35378-4c91-4bba-ba80-1c289e2adde5" />
+### Page 4 
+<img width="1313" height="737" alt="Screenshot 2026-09-04 105853 - Copy" src="https://github.com/user-attachments/assets/33c35378-4c91-4bba-ba80-1c289e2adde5" />
 
-- No strong correlation between price and rating
-- Hidden gems exist in residential areas with high ratings but low reviews
+
 
 ## Project Structure
 - `zomato_eda.ipynb` - Main analysis notebook
