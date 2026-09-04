@@ -35,6 +35,7 @@ Kaggle - Zomato Delhi NCR Restaurants Dataset
 ### Page 1 
 <img width="1310" height="725" alt="Screenshot 2026-09-04 105808 - Copy - Copy" src="https://github.com/user-attachments/assets/c5ce1c8c-0aa8-4f1a-8570-bc747dfeb0e8" />
 
+Connaught Place leads with the highest restaurant density and average dining rating across all restaurant in Delhi is 4.10 with Open Tap having the highest dining rating of 4.53
 
 ### Page 2
 <img width="1317" height="734" alt="Screenshot 2026-09-04 105825" src="https://github.com/user-attachments/assets/179cfe7e-d6a0-4c8b-ae43-2adc0e5babcd" />
