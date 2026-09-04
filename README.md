@@ -53,7 +53,7 @@ Two new measures created:
 - Value Score= rating/ (price/1000) finds best value restaurants
 - Gem Score= rating * (1/review count) finds underrated restaurants
   
-Cool Point Shahi Tukda is the best value restaurant 
+Cool Point Shahi Tukda is the best value restaurant and 
 Echoes Living Room is the most underrated restaurant
 
 ## Project Structure
