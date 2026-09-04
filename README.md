@@ -27,6 +27,20 @@ Kaggle - Zomato Delhi NCR Restaurants Dataset
 - Connaught Place has the highest restaurant density in Delhi NCR
 - Average dining rating is 4.14 across all localities
 - Dining experience significantly outperforms delivery ratings
+
+## Power BI Dashboard
+
+### Page 1 - City Overview
+![City Overview](dashboard/city_overview.png)
+
+### Page 2 - Cuisine Analysis
+![Cuisine Analysis](dashboard/cuisine_analysis.png)
+
+### Page 3 - Dining vs Delivery
+![Dining vs Delivery](dashboard/dining_vs_delivery.png)
+
+### Page 4 - Hidden Gems
+![Hidden Gems](dashboard/hidden_gems.png)
 - No strong correlation between price and rating
 - Hidden gems exist in residential areas with high ratings but low reviews
 
