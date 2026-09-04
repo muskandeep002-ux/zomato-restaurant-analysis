@@ -44,7 +44,7 @@ North Indian dominates as most common cuisine
 ### Page 3 
 <img width="1307" height="726" alt="Screenshot 2026-09-04 105838" src="https://github.com/user-attachments/assets/e5c979e8-b9c1-4ea0-be12-0ba042a0c1c1" />
 
-Dining ratings (4.14) significantly higher than delivery (3.15)
+Dining ratings (4.14) significantly higher than delivery (3.15). 
 Three restaurants The big chill, Kuremal Mohan Lal Kulfi wale, and Dum Pukht has the biggest gap between dining and delivery rating
 ### Page 4 
 <img width="1313" height="737" alt="Screenshot 2026-09-04 105853 - Copy" src="https://github.com/user-attachments/assets/33c35378-4c91-4bba-ba80-1c289e2adde5" />
@@ -52,6 +52,7 @@ Three restaurants The big chill, Kuremal Mohan Lal Kulfi wale, and Dum Pukht has
 Two new measures created:
 - Value Score= rating/ (price/1000) finds best value restaurants
 - Gem Score= rating * (1/review count) finds underrated restaurants
+  
 Cool Point Shahi Tukda is the best value restaurant 
 Echoes Living Room is the most underrated restaurant
 
